@@ -1,3 +1,5 @@
 Hello
 
-End of this file
+
+Conflict!!
+End of file
